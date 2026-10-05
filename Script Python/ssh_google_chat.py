@@ -3,7 +3,7 @@ import paramiko
 from datetime import datetime
 
 # Webhook Google Chat
-WEBHOOK_URL = "https://chat.googleapis.com/v1/spaces/AAQAIey_OOE/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=rPYStTPLdYMf4eZBTXqErPtNELMHXbOdqpWu1Y3Oo-o"
+WEBHOOK_URL = "https://chat.googleapis.com/v1/spaces/AAQAIey_OOE/messages?key=XXXXXXXX
 
 # Serveurs
 serveurs = [
